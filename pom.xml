@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>batch36</finalName>
+    <finalName>durga</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
